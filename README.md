@@ -38,6 +38,6 @@ Be careful of what mods you are using with this package, as it is VERY demanding
 
 I recommend testing with: <a href="https://github.com/linuxgurugamer/ShowFPS">Show FPS</a> & <a href="https://github.com/linuxgurugamer/MemGraph">MemGraph</a>. You will have a good idea of the performance hit you get with the textures.
 
-Have fun and <a href="https://www.paypal.com/donate/?hosted_button_id=UXU2LPN8EKLAE">buy me a cofee</a> if you like this mod!
+Have fun !
 
 <a href="https://github.com/Lucke001">My Github</a>
