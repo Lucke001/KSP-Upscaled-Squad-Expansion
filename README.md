@@ -35,7 +35,7 @@ Enhancement of Stock Squad Expansion texture folders in 3 different settings<br>
 
 <b>PLEASE NOTE:</b>
 
-Be careful of what mods you are using with this package, as it is VERY demanding on hardware. I personnaly use the low settings because I use <a href="https://www.patreon.com/linx_/posts">Link's Parallax v2.0</a> and <a href="https://www.patreon.com/blackrack/posts">Blackrack Volumetrics Clouds</a> from their patreon, plus <a href="https://github.com/JadeOfMaar/KSC_Extended">KSC Extended</a>, <a href="https://spacedock.info/mod/2306/KSC Harbor">KSC Harbor</a> & <a href="https://spacedock.info/mod/3654/KSC Enhanced">KSC Enhanced</a> that utilize stock assets, which decrease overall FPS in KSC area.
+Be careful of your RAM usage with this package, as it is VERY demanding on hardware. You will notice that your RAM compresses the files during the process, liberating some precious space to run the game
 
 I recommend testing with: <a href="https://github.com/linuxgurugamer/ShowFPS">Show FPS</a> & <a href="https://github.com/linuxgurugamer/MemGraph">MemGraph</a>. You will have a good idea of the performance hit you get with the textures.
 
