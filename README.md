@@ -3,8 +3,9 @@
 Enhancement of Stock Squad Expansion texture folders in 3 different settings<br>
 <b><a href="https://github.com/Lucke001/KSP-Upscaled-Squad">[1.12.X] KSP Upscaled - Squad goes in pair with this mod</a></b>
 <br>
+<b><a href="https://github.com/Lucke001/KSP-Upscaled-Core">[1.12.X] KSP Upscaled - Core is recommended with this mod</a></b>
 <br>
-
+<br>
 
 <b>Process:</b><br><br>
 
